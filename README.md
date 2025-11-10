@@ -101,10 +101,3 @@ Contributions are welcome! Please feel free to submit pull requests or open issu
 
 This project is open-source and available under the [MIT License](LICENSE).
 
-## Screenshots
-
-*(Add screenshots here once available)*
-
-## Support
-
-If you encounter any issues or have questions, please check the code comments or open an issue on GitHub.
