@@ -3,6 +3,7 @@
 **Owner:** [@raghava5758](https://github.com/raghava5758)
 
 #Report: [Java Project Report personal finance tracker.pdf](https://github.com/user-attachments/files/23453837/Java.Project.Report.personal.finance.tracker.pdf)
+
 A comprehensive desktop application built in Java using Swing GUI for managing personal finances. Track income, expenses, categories, budgets, and generate reports with ease.
 
 ## Features
@@ -101,5 +102,6 @@ Contributions are welcome! Please feel free to submit pull requests or open issu
 ## License
 
 This project is open-source and available under the [MIT License](LICENSE).
+
 
 
