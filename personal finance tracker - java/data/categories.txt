@@ -1,0 +1,11 @@
+Salary|Income
+Freelance|Income
+Investment|Income
+Food|Expense
+Transport|Expense
+Entertainment|Expense
+Bills|Expense
+Shopping|Expense
+Healthcare|Expense
+Other|Expense
+burger|Expense

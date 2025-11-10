@@ -1,0 +1,5 @@
+1|Income|1500.00|Salary|Salary|2025-11-04
+2|Expense|100.00|Food|burger|2025-11-04
+3|Expense|500.00|Food|pizza|2025-11-09
+4|Income|500.00|Salary|No description|2025-11-10
+5|Income|2000.00|Freelance|No description|2025-11-08
